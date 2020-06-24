@@ -7,16 +7,6 @@ public abstract class Customer {
 	private double purchaseAmount;
 	private Discount discount;
 	private double billAmount;
-	
-	
-
-//	public Customer() {
-//		
-//		this.setCalculatedDiscount();
-//	}
-	
-	//public abstract void setCalculatedDiscount();
-	
 		
 	
 	
